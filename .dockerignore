@@ -1,0 +1,11 @@
+﻿Dockerfile
+Dockerfile.*
+*.md
+*.png
+*.jpg
+*.jpeg
+*.gif
+.vs
+.vscode
+bin
+obj
